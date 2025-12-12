@@ -45,40 +45,31 @@ Se você está estudando PHP e MySQL, confira esses arquivos:
 * **`index.php`:** É o arquivo principal. Veja como o PHP mistura o código HTML e o JavaScript para gerar os gráficos dinamicamente.
 * **`database/consultas.sql`:** Aqui estão todas as consultas SQL que usamos para alimentar cada gráfico. É um ótimo lugar para aprender como agrupar e calcular dados como a média de idade!
 
-* ## 📸 Imagens do Projeto
+## 📸 Imagens do Projeto
 
-### 1️⃣ Tela de Login
-![Tela de Login](imagem1)  
+1️⃣ **Tela de Login**  
 Tela inicial onde o usuário insere suas credenciais para acessar o sistema.
 
-### 2️⃣ Dashboard
-![Dashboard](imagem2)  
+2️⃣ **Dashboard**  
 Resumo geral com indicadores e atalhos principais do sistema.
 
-### 3️⃣ Consultas
-![Consultas](imagem3)  
+3️⃣ **Consultas**  
 Área para pesquisar e visualizar informações dos alunos cadastrados.
 
-### 4️⃣ Gerenciar Alunos
-![Gerenciar Alunos](imagem4)  
+4️⃣ **Gerenciar Alunos**  
 Tela para editar dados, excluir registros e administrar informações dos alunos.
 
-### 5️⃣ Cadastrar Novo Aluno
-![Cadastrar Novo Aluno](imagem5)  
+5️⃣ **Cadastrar Novo Aluno**  
 Formulário para adicionar um novo aluno ao banco de dados.
 
-### 6️⃣ Banco de Alunos Cadastrados
-![Banco de Alunos](imagem6)  
+6️⃣ **Banco de Alunos Cadastrados**  
 Lista completa de todos os alunos já registrados no sistema.
 
-### 7️⃣ Estruturas VSCode (Parte 1)
-![Estruturas VSCode 1](imagem7)  
+7️⃣ **Estruturas VSCode (Parte 1)**  
 Primeira parte da organização de pastas e arquivos do projeto no VSCode.
 
-### 8️⃣ Estruturas VSCode (Parte 2)
-![Estruturas VSCode 2](imagem8)  
+8️⃣ **Estruturas VSCode (Parte 2)**  
 Segunda parte da estrutura do projeto exibida no VSCode.
-
 ---
 
 **Qualquer dúvida ou sugestão, é só abrir uma Issue! Bom estudo!**
